@@ -1,6 +1,6 @@
 package FibonacciNumber;
 
-public class FibonacciNumber {
+public class fibonacciNumber {
     public static void main(String[] args){
         System.out.println(fibonacciNumber(100));
     }
